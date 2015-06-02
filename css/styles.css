@@ -1,0 +1,21 @@
+body {
+  background: url("http://thumbs.dreamstime.com/z/money-13892752.jpg");
+  background-size: cover;
+  text-align: center;
+  color: black;
+  text-shadow: 0 0 5px #EBDB4D, 0 0 10px #EBDB4D,
+         0 0 20px #EBDB4D, 0 0 30px #EBDB4D,
+         0 0 40px #EBDB4D;
+}
+
+h1 {
+  text-align: center;
+  color: #D0F8FF;
+	text-shadow: 0 0 5px #EBDB4D, 0 0 10px #EBDB4D,
+		     0 0 20px #EBDB4D, 0 0 30px #EBDB4D,
+		     0 0 40px #EBDB4D;
+}
+
+.jumbotron {
+  background-image: url("images/gold.jpg");
+}
